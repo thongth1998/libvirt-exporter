@@ -1,4 +1,4 @@
-module github.com/inovex/prometheus-libvirt-exporter
+module github.com/thongth1998/libvirt-exporter
 
 go 1.22
 
