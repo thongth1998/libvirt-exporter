@@ -1,6 +1,6 @@
 module github.com/thongth1998/libvirt-exporter
 
-go 1.22
+go 1.22.1
 
 require (
 	github.com/alecthomas/kingpin/v2 v2.4.0
@@ -19,6 +19,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-logfmt/logfmt v0.6.0 // indirect
+	github.com/inovex/prometheus-libvirt-exporter v1.6.0 // indirect
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
